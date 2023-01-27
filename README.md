@@ -24,6 +24,7 @@ The challenge from Rocketseat's course Explorer was to fix the code of a page in
 <img alt="Page with bugs" src=".github/error-page.png" width="100%" >
 </p>
 
-- Confira o projeto online com os devidos ajustes: https://lidiabrentano.github.io/fixing-bugs-01/
+- Online project: https://lidiabrentano.github.io/fixing-bugs-01/
+
 -----
 <p align="center">By Lídia Brentano</p>
